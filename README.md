@@ -41,6 +41,29 @@ Random Forest,Decision Tree,Extra Trees,KNN (K-Nearest Neighbors),SGD (Stochasti
 Deep Learning Models (Neural Networks):
 Long Short-Term Memory (LSTM),Feed Forward Neural Network,Recurrent Neural Network
 
+# Libraries:
+pandas as pd: Data manipulation and analysis.
+
+matplotlib.pyplot as plt: Data visualization.
+
+seaborn as sns: Statistical data visualization.
+
+numpy as np: Numerical computing.
+
+datetime: Manipulating dates and times.
+
+joblib: Saving and loading scikit-learn models.
+
+tensorflow as tf: Building and training neural networks.
+
+WordCloud: Generating word clouds.
+
+StandardScaler, LabelEncoder: Preprocessing data.
+
+train_test_split: Splitting data into training and testing sets.
+
+GridSearchCV: Hyperparameter tuning using grid search.
+
 # Results:
 The results obtained from the evaluation of different machine learning and neural network models for weather forecasting indicate that the Extra Trees Classifier model emerged as the top performer across multiple evaluation metrics. Specifically, the Extra Trees Classifier model achieved the best accuracy, precision, recall score, and F1 score among all models tested. This highlights its superiority in accurately predicting weather conditions. Additionally, it is noteworthy that the LSTM model, a type of recurrent neural network, demonstrated the highest accuracy among all models evaluated, showcasing the effectiveness of deep learning approaches in extracting complex patterns from weather data. These findings underscore the potential of both traditional machine learning algorithms and advanced neural network architectures in enhancing weather forecasting accuracy and reliability.
 
