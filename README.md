@@ -20,17 +20,7 @@ EDA conducted to understand underlying patterns
 Dataset contains 27 different types of weather conditions
 
 # Methodology:
-Data cleaning and formatting
-
-Exploratory Data Analysis (EDA)
-
-Training and testing of machine learning models (Random Forest, Decision Tree, Extra Trees, KNN, SGD, SVM, Gaussian Naïve Bayes, Logistic Regression)
-
-Training and testing of neural network models (LSTM, Feed Forward Neural Network, Recurrent Neural Network)
-
-Evaluation of models using accuracy, precision, recall score, and F1 score metrics
-
-Identification of the best-performing model for weather prediction
+The project begins with data cleaning and formatting, ensuring the dataset is well-prepared for analysis. Exploratory Data Analysis (EDA) follows, providing insights into the dataset's characteristics and patterns. Subsequently, both machine learning and neural network models, including Random Forest, Decision Tree, Extra Trees, KNN, SGD, SVM, Gaussian Naïve Bayes, Logistic Regression, LSTM, Feed Forward Neural Network, and Recurrent Neural Network, are trained and tested for weather prediction. The performance of these models is evaluated using key metrics such as accuracy, precision, recall score, and F1 score. Finally, the best-performing model is identified based on these evaluation metrics, providing a robust solution for accurate weather prediction.
 
 # Models Used:
 The models used in the project are:
